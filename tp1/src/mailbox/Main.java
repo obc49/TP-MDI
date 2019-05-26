@@ -25,7 +25,6 @@ public class Main {
 		
 		p.add(obs);
 		p.add(mailobs);
-		
 		f.add(p);
 		
 		//TODO Register observer
