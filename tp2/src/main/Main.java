@@ -12,7 +12,7 @@ import tp6.parser.Parser;
 public class Main {
     public static void main(String[] args) {
          long start_time, stop_time;
-
+      
          if (args.length < 1) {
               System.out.println("Usage:");
               System.out.println(" java main.Main <filename>");

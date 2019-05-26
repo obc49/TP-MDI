@@ -10,7 +10,7 @@ import java.util.Stack;
 
 import tp6.analysis.Analysis;
 import tp6.node.AAssignment;
-import tp6.node.AAssignmentStatement;
+import tp6.node.AAssignmentStatement;  
 import tp6.node.ABinexpression;
 import tp6.node.ABinexpressionExpression;
 import tp6.node.ABlock;
