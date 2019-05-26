@@ -6,3 +6,8 @@
 
 * Roland Kouassi
 * Oumar Ballo
+
+
+Diagramme de classe Pizza :
+
+![class_diagram](./class_diagramm.png)
